@@ -1,7 +1,7 @@
 //___FILEHEADER___
 
+@MainActor
 final class ___VARIABLE_productName___Builder {
-
   private let dependency: ___VARIABLE_productName___Dependency
 
   init(withDependency dependency: ___VARIABLE_productName___Dependency) {
