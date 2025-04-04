@@ -17,6 +17,6 @@ struct ___VARIABLE_productName___View: View {
   }
 
   var body: some View {
-    EmptyView()
+    Text("___VARIABLE_productName___")
   }
 }
