@@ -34,4 +34,4 @@ A few notes here:
 In this repo, you can find a template for Xcode new file. This is to help you create a new RIB quickly. The template for writing tests is to be added later.
 
 ### Sample project
-To be added
+You can find a small demo project in this repo as well
