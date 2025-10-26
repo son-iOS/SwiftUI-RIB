@@ -16,13 +16,13 @@
     let stateContainer = ___VARIABLE_productName___StateContainer()
     let interactor = ___VARIABLE_productName___InteractorImpl(
       router: router,
-      stateContainer: stateContainer
+      stateContainer: stateContainer,
     )
 
     let view = ___VARIABLE_productName___View(
       interactor: interactor,
       stateContainer: stateContainer,
-      viewContainer: viewContainer
+      viewContainer: viewContainer,
     )
 
     return ___VARIABLE_productName___Output(view: view, publishers: interactor)
